@@ -26,6 +26,8 @@ public class SecondActivity extends AppCompatActivity {
 // added commit code line again.
         // added commit code line again.
         // added commit code line again.
+       // git push --set-upstream origin local_dev
+//git push --set-upstream origin local_dev
         binding = ActivitySecondBinding.inflate(getLayoutInflater());
         setContentView(binding.getRoot());
 
