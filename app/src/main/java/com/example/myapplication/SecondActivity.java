@@ -24,6 +24,10 @@ public class SecondActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
 // added commit code line again.
+        // added commit code line again.
+        // added commit code line again.
+       // git push --set-upstream origin local_dev
+//git push --set-upstream origin local_dev
         binding = ActivitySecondBinding.inflate(getLayoutInflater());
         setContentView(binding.getRoot());
 
